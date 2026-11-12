@@ -83,12 +83,12 @@ headline-sentiment heuristic that drives alerts.
 
 | Project | Stack | What it does |
 |---|---|---|
-| 🎓 **[Viva Panel](https://github.com/goyalnishtha841/vivapanel)** | FastAPI, React, Groq, Docker | AI examiners that quiz you on your own repo and verify claims by running your tests — **#11 of 2,000** at Ziro Agentic AI Hackathon |
-| 🏭 **[Kairo](https://github.com/goyalnishtha841/kairo)** | MediaPipe, OpenCV, FastAPI, React | Watches factory video, finds where shifts lose time and writes the SOP — every claim cites a `[clip@mm:ss]` |
-| ✈️ **[Auralink](https://github.com/goyalnishtha841/auralink)** | Whisper, FastAPI, WebSockets, Next.js | Offline cabin translator that confirms instead of guessing — 91.2% first-try match, 16 languages |
-| 🔮 **[Foresight](https://github.com/goyalnishtha841/foresight)** | React, FastAPI, PostgreSQL | CSV → forecast with bootstrap confidence intervals, anomaly flags, backtests and privacy-first LLM narration |
-| 👁️ **[GazeLens](https://github.com/goyalnishtha841/gazelens)** | YOLOv8, Faster R-CNN, Multi-Agent | Webcam gaze → UI elements → 4 reasoning agents produce confidence-scored usability findings *(in progress)* |
-| 🕸️ **[ScrapeFlow](https://github.com/SpectaclesGuy/scrapeflow)** | NLP, Full-Stack | Describe the data in plain English, get a scraping job and CSV / Excel / JSON / API exports |
+| 🎓 **[Viva Panel](https://github.com/goyalnishtha841/vivapanel)** | FastAPI, React, Groq | AI viva on your own code — #11 of 2,000 teams |
+| 🏭 **[Kairo](https://github.com/goyalnishtha841/kairo)** | MediaPipe, OpenCV | Factory video → time-loss fixes and SOPs |
+| ✈️ **[Auralink](https://github.com/goyalnishtha841/auralink)** | Whisper, FastAPI | Offline cabin translator in 16 languages |
+| 🔮 **[Foresight](https://github.com/goyalnishtha841/foresight)** | FastAPI, PostgreSQL | CSV → forecasts with confidence intervals |
+| 👁️ **[GazeLens](https://github.com/goyalnishtha841/gazelens)** | YOLOv8, Multi-Agent | Webcam gaze → automated UX reports |
+| 🕸️ **[ScrapeFlow](https://github.com/SpectaclesGuy/scrapeflow)** | NLP, Full-Stack | Plain English → structured web data |
 
 </details>
 
@@ -97,20 +97,7 @@ headline-sentiment heuristic that drives alerts.
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,react,nodejs,express,fastapi,flask" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,postgres,supabase,mongodb,mysql,docker,git,github,vercel" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-1B1815?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agentic_AI-1B1815?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLP-1B1815?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer_Vision-1B1815?style=flat-square" />
-  <img src="https://img.shields.io/badge/Groq_API-1B1815?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI_API-1B1815?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST_APIs-1B1815?style=flat-square" />
-  <img src="https://img.shields.io/badge/Render-1B1815?style=flat-square&logo=render&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nextjs,nodejs,fastapi,postgres,supabase,opencv,docker,git" />
 </p>
 
 <br>
