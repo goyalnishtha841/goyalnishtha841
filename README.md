@@ -118,7 +118,6 @@ headline-sentiment heuristic that drives alerts.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goyalnishtha841&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=22E68A&icon_color=22E68A&text_color=C9D1D9" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=goyalnishtha841&hide_border=true&background=0D1117&ring=22E68A&fire=22E68A&currStreakLabel=22E68A&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" height="165"/>
 </p>
 
