@@ -100,6 +100,21 @@ headline-sentiment heuristic that drives alerts.
   <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nextjs,nodejs,fastapi,postgres,supabase,opencv,docker,git" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-1B1815?style=flat-square" />
+  <img src="https://img.shields.io/badge/C++-1B1815?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-1B1815?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-1B1815?style=flat-square" />
+  <img src="https://img.shields.io/badge/Next.js-1B1815?style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-1B1815?style=flat-square" />
+  <img src="https://img.shields.io/badge/FastAPI-1B1815?style=flat-square" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1B1815?style=flat-square" />
+  <img src="https://img.shields.io/badge/Supabase-1B1815?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCV-1B1815?style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-1B1815?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-1B1815?style=flat-square" />
+</p>
+
 <br>
 
 ## 📊 GitHub Stats
